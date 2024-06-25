@@ -1,0 +1,8 @@
+package br.com.jadielycardoso.gestao_vagas.exception;
+
+public class ErrorMessageDTO {
+	
+	private String message;
+	private String fild;
+
+}

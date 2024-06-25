@@ -1,0 +1,5 @@
+package br.com.jadielycardoso.gestao_vagas.exception;
+
+public class ExceptionHandler {
+
+}

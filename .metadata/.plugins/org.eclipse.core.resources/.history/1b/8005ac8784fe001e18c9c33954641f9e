@@ -1,0 +1,15 @@
+package br.com.jadielycardoso.gestao_vagas.exception;
+
+import org.springframework.web.bind.MethodArgumentNotValidException;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+// anotação que faz o controle das exceções
+@ControllerAdvice
+public class ExceptionHandler {
+	
+	@Exce
+	public void handleMethodArgumentNotValidException(MethodArgumentNotValidException e) {
+		
+	}
+
+}
